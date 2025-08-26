@@ -1,6 +1,6 @@
 # 🧠 Git Repository Framework Detection (Machine Learning + API)
 
-Ce projet permet de **détecter automatiquement le framework principal** (Django, Flask, Laravel, Spring Boot, etc.) utilisé dans un dépôt GitHub.  
+Ce projet permet de **détecter automatiquement le framework principal** (Flask, Laravel, Spring Boot) utilisé dans un dépôt GitHub.  
 Il combine du **Machine Learning** pour l’analyse du code et une **API FastAPI** pour exposer le modèle.  
 
 ---
