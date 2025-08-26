@@ -6,3 +6,4 @@ pandas
 docker
 joblib
 api
+python-multipart
