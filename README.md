@@ -7,12 +7,14 @@ Il combine du **Machine Learning** pour l’analyse du code et une **API FastAPI
 
 ## 🚀 Démo en ligne
 
-👉 [Essayer l’API sur Render]([https://git-repo-detector.onrender.com](https://git-repo-framework-detection-machine.onrender.com))  
+👉 [Essayer l’API sur Render]([https://git-repo-framework-detector-machine.com](https://git-repo-framework-detection-machine.onrender.com))  
 
 - **Swagger UI (documentation interactive)** :  
-  [`/docs`]([https://git-repo-detector.onrender.com](https://git-repo-framework-detection-machine.onrender.com)/docs)  
+  [https://git-repo-framework-detector-machine.onrender.com/docs]((https://git-repo-framework-detection-machine.onrender.com))
+
 - **ReDoc (autre documentation)** :  
-  [`/redoc`]([https://git-repo-detector.onrender.com](https://git-repo-framework-detection-machine.onrender.com)/redoc)  
+  [https://git-repo-framework-detector-machine.onrender.com/redoc](https://git-repo-framework-detection-machine.onrender.com))
+ 
 
 ---
 
